@@ -1,0 +1,8 @@
+images/*
+kleinanzeigen-bot
+node_modules
+backup
+aspnet_client
+.idea
+.git
+
